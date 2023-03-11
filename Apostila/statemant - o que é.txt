@@ -1,0 +1,7 @@
+Em programação, um statement (ou instrução) é uma unidade básica de código que representa uma ação ou comando a ser executado pelo programa. Um statement é geralmente uma única linha de código que realiza uma tarefa específica. Por exemplo, uma declaração de variável é um tipo comum de instrução que cria uma nova variável e atribui a ela um valor inicial.
+
+Em JavaScript, existem vários tipos de statements, incluindo declarações de variáveis, loops, condicionais, funções, entre outros. Cada tipo de declaração tem sua própria sintaxe e comportamento específico, mas todos eles são usados para construir programas completos.
+
+Os statements são executados pelo interpretador de JavaScript em uma ordem sequencial. Isso significa que, quando um programa é executado, cada instrução é executada em ordem, uma após a outra, até que o programa chegue ao fim ou encontre um erro.
+
+Em resumo, um statement é uma unidade básica de código que realiza uma tarefa específica dentro de um programa de computador.
